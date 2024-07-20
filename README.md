@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Saini</h1>
-<h3 align="center">A Bachelor of Technology from the department of Computer Science and Engineering</h3>
+<h3 align="center">A student of Bachelor of Technology from the department of Computer Science and Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atomhudson&label=Profile%20views&color=0e75b6&style=flat" alt="atomhudson" /> </p>
 
